@@ -62,8 +62,10 @@
 
 
 //trim 
-let str="   hello world   ";
-console.log(str);
-console.log(str.trim());
+// let str="   hello world   ";
+// console.log(str);
+// console.log(str.trim());
+
+//Update inbuildfun
 
 
