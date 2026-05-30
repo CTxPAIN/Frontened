@@ -77,11 +77,57 @@
 
 //question 5 sum of digits
 
-let num=Number(prompt("enter the number "));
+// let num=Number(prompt("enter the number "));
 
-for(let i=0;i<num.length;i++){
+// for(let i=0;i<num.length;i++){
     
-}
+// }
+
+//do while loop
+
+// let i=0;
+// do{
+//    console.log(i);
+//     i++;
+// }while(i<5);
+
+
+//for each loop
+// let arr=[1,2,3,4,5];
+// arr.forEach((arr)=>console.log(arr))
+
+// for in loop
+
+// let obj={a:1,b:2,c:3,d:4};
+// for(let key in obj){
+//     console.log(key,obj[key]);
+// 
+
+
+//invoked immediately function
+
+// function greet(){(console.log("helo"))} ;
+// greet();
+// const iife=()=>console.log("my name is price");
+// (()=>console.log("this is arrow iife"))();
+
+
+// function nest(){
+//     console.log("this is nested loop");
+
+//     (function (){
+//         console.log("this is iife");
+//     })();
+// }
+// nest();
+
+
+
+
+
+
+
+
 
 
 
